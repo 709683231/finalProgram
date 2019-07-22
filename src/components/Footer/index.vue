@@ -40,8 +40,9 @@
     left 0
     right 0
     bottom 0
-    width 100%
+    width 750px
     height 98px
+    background white
     .footerUl
       display flex
       color #666
